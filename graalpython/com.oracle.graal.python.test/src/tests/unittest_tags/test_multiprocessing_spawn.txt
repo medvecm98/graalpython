@@ -1,9 +1,9 @@
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_abort @ darwin-arm64
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_abort_and_reset @ darwin-arm64,win32-AMD64-github
-test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_action @ darwin-arm64
+test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_action @ darwin-arm64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_barrier @ darwin-arm64
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_barrier_10 @ darwin-arm64,win32-AMD64,win32-AMD64-github
-test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_default_timeout @ darwin-arm64,win32-AMD64
+test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_default_timeout @ darwin-arm64,win32-AMD64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_reset @ darwin-arm64
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_single_thread @ darwin-arm64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestBarrier.test_timeout @ darwin-arm64,win32-AMD64-github
@@ -16,7 +16,7 @@ test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_dict
 test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_dict_proxy_nested @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_list @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_list_iter @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
-test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_list_proxy_in_list @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64
+test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_list_proxy_in_list @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_namespace @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestContainers.test_nested_queue @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestEvent.test_event @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
@@ -53,7 +53,7 @@ test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_get @ dar
 test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_no_import_lock_contention @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_put @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_qsize @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64,win32-AMD64-github
-test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_task_done @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github
+test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_task_done @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestQueue.test_timeout @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestRemoteManager.test_remote @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github
 test.test_multiprocessing_spawn.test_manager.WithManagerTestSemaphore.test_bounded_semaphore @ darwin-arm64,linux-aarch64,linux-aarch64-github,linux-x86_64,linux-x86_64-github,win32-AMD64,win32-AMD64-github
